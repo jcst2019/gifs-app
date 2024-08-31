@@ -15,7 +15,8 @@ import { LazyImageComponent } from './components/lazy-image/lazy-image.component
   ]
   ,
   exports: [
-    SidebarComponent
+    SidebarComponent,
+    LazyImageComponent
   ]
 })
 export class SharedModule { }
